@@ -1,0 +1,12 @@
+este sistema que tiene integrado a wsl es la verdad algo lento, es mil veces mejor alacritty 
+para poder de ayudar con el sistema de base a ejecuciones con las cuales se tenga la manipulacion ofenciva de datos que es tenga a investigar con algunos de los detalles que se pretenden aprender 
+
+
+
+-- ojo que estas referencias se basan en la primera parte de mis resultados que espero que funcionen para despues de estos valores cuales con llevan asi deciciones de cambio de sistema
+por ahora estoy aprendiendo:
+
+-- asi tambien recordar que este sistema es bastante tedioso con los cuales no se tiene interfaz wifi solo eth0
+
+-- registro primera parte: 20-05-2
+

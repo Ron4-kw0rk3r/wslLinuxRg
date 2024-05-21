@@ -1,0 +1,7 @@
+es la primera vez que instalo linux en windows con wsl en powershell
+
+# es la primera vez que voy a agregar un remoter para el git hub en este primera version de este sistema wsl para linux jajaj 
+# archivo enviado desde linux debian integrado: windows
+
+-- registro : 20 - 05 - 24 
+-- seeder:    teniendo en cuenta que los este registro estara aca hasta que formatee el equipo
